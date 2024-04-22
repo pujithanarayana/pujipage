@@ -1,0 +1,34 @@
+body{
+    background-color:whitesmoke
+}
+header{
+    color:rgb(5, 176, 5);
+    text-align:center;
+}
+nav{
+    background-color:rgb(5,176,5);
+    padding:1%;
+
+}
+a{
+    color:white;
+    margin:8%
+}
+h2{
+    color:brown
+}
+p{
+    width:50vw;
+    text-align:justify;
+    float:left;
+    
+}
+img{
+    height:30vh;
+    width:21vw;
+    margin-left:20px;
+}
+footer{
+    color:brown;
+    background-color:rgb(20, 175, 20);
+}

@@ -1,0 +1,65 @@
+
+h1{
+    text-align: center;
+    color:yellow;
+    background-color:rgb(168, 33, 56);
+    height:100px;
+    padding-top:40px;
+    margin-top:-2px;
+    font-family:Algerian;
+    border:10px solid rgb(168,33,56);
+    font-size:300%;
+}
+.v{
+    float:left;
+}
+
+.w{
+    color:black;
+    border:2px solid rgb(168,33,56);
+    height:40px;
+    width:150px;
+    margin-left:5px;
+    font-size:170%;
+    background-color:rgb(168,33,56);
+    margin-top:80px;
+}
+.f{
+    float:right;
+    display:flex;
+    gap:12px;
+    margin-top:10px;
+
+}
+.c{
+    float:right;
+    display:flex;
+    gap:5px;
+    margin-top:9px;
+}
+.x{
+    float:right;
+    display:flex;
+    gap:12px;
+    margin-top:9px;
+}
+.l{
+    margin-right:40px;
+}
+
+footer{
+    color:brown;
+    background-color:rgb(20, 175, 20);
+    margin-top:580px;
+}
+nav{
+    background-color:rgb(5,176,5);
+    padding:1%;
+  
+
+}
+a{
+    color:white;
+    margin:8%;
+
+}
